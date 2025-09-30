@@ -1,4 +1,3 @@
-Here is a suggested README.md content for your GitHub repo that explains your Docker Buildx scenario with the given Dockerfile and build command:
 
 ***
 
